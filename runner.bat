@@ -1,0 +1,4 @@
+SET PYSPARK_DRIVER_PYTHON="jupyter" 
+SET PYSPARK_DRIVER_PYTHON_OPTS="lab" 
+SET PYSPARK_PYTHON=python3 
+pyspark --name App
