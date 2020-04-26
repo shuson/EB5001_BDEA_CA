@@ -1,4 +1,4 @@
-,id,text,favorite_count,is_retweet,retweet_count,sentiment_compound,sentiment_neg,sentiment_neu,sentiment_pos,source,hour,day,week,month,year,price
+_c0,id,text,favorite_count,is_retweet,retweet_count,sentiment_compound,sentiment_neg,sentiment_neu,sentiment_pos,source,hour,day,week,month,year,price
 3,814958820980039040,"b""Russians are playing @CNN and @NBCNews for such fools - funny to watch, they don't have a clue! @FoxNews totally gets it!""",84254,0.0,23213,0.2695,0.116,0.691,0.192,Twitter for Android,17,30,52,12,2016,2246.4
 4,814920722208295936,"b'Join @AmerIcan32, founded by Hall of Fame legend @JimBrownNFL32 on 1/19/2017 in Washington, D.C.a https://t.co/9WJZ8iTCQV'",25336,0.0,7366,0.6249,0.0,0.718,0.282,Twitter for iPhone,14,30,52,12,2016,2246.4
 5,814919370711460992,b'Great move on delay (by V. Putin) - I always knew he was very smart!',97669,0.0,34415,0.7257,0.106,0.553,0.341,Twitter for Android,14,30,52,12,2016,2246.4
